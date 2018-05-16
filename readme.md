@@ -20,6 +20,8 @@
     DB_USERNAME=аккаунт
     DB_PASSWORD=пароль
     
+Версия PHP не ниже `7.1.3`
+    
 Команда
 
     php artisan send-money {from} {to} {amount}
