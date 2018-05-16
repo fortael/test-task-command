@@ -1,13 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: fortael
- * Date: 17/05/2018
- * Time: 01:29
- */
 
 namespace App\Helpers;
-
 
 use App\User;
 use Illuminate\Support\Facades\DB;
