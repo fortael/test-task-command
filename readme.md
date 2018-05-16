@@ -8,13 +8,6 @@
     `balance` decimal(10,2) NOT NULL,
     PRIMARY KEY (`id`)
     ) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
-        
-    CREATE TABLE `comments` (
-    `id` int(10) unsigned NOT NULL AUTO_INCREMENT, `user_id` int(10) unsigned NOT NULL,
-    `text` text NOT NULL,
-    PRIMARY KEY (`id`)
-    ) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
-    
     
 Скачать [архив](https://github.com/fortael/test-task-command/archive/master.zip)
 
